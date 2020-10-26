@@ -1,35 +1,33 @@
-# Coffee Shop Full Stack
+# Coffee Shop Website
 
-## Full Stack Nano - IAM Final Project
+## Udacity Full Stack Web Development Nanodegree - Project #3
 
-Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
+Prompt: 
 
-You have been called on to demonstrate your newly learned skills to create a full stack drink menu application. The application must:
+> Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
 
-1) Display graphics representing the ratios of ingredients in each drink.
-2) Allow public users to view drink names and graphics.
-3) Allow the shop baristas to see the recipe information.
-4) Allow the shop managers to create new drinks and edit existing drinks.
+> You have been called on to demonstrate your newly learned skills to create a full stack drink menu application. The application must:
 
-## Tasks
+> 1) Display graphics representing the ratios of ingredients in each drink.
+> 2) Allow public users to view drink names and graphics.
+> 3) Allow the shop baristas to see the recipe information.
+> 4) Allow the shop managers to create new drinks and edit existing drinks.
+> 
+> There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
+> 
+> 1. [`./backend/`](./backend/README.md)
+> 2. [`./frontend/`](./frontend/README.md)
 
-There are `@TODO` comments throughout the project. We recommend tackling the sections in order. Start by reading the READMEs in:
+## Prerequisites and Dependencies
 
-1. [`./backend/`](./backend/README.md)
-2. [`./frontend/`](./frontend/README.md)
+Please see the respective 
+[frontend](./backend/README.md) and [backend](./backend/README.md) README files for more information on setting up the the various dependencies required for this project.
 
-## About the Stack
+## Project Stack
 
-We started the full stack application for you. It is desiged with some key functional areas:
+This project utilizes a Flask server running a SQLAlchemy database and Auth0 authentication behind a complete Ionic UI framework.
 
-### Backend
+### Contributing Authors
 
-The `./backend` directory contains a partially completed Flask server with a pre-written SQLAlchemy module to simplify your data needs. You will need to complete the required endpoints, configure, and integrate Auth0 for authentication.
-
-[View the README.md within ./backend for more details.](./backend/README.md)
-
-### Frontend
-
-The `./frontend` directory contains a complete Ionic frontend to consume the data from the Flask server. You will only need to update the environment variables found within (./frontend/src/environment/environment.ts) to reflect the Auth0 configuration details set up for the backend app. 
-
-[View the README.md within ./frontend for more details.](./frontend/README.md)
+Udacity
+C. Tyler Dennis
