@@ -14,7 +14,7 @@ We recommend working within a virtual environment whenever using Python for proj
 
 #### PIP Dependencies
 
-Once you have your virtual environment setup and running, install dependencies by naviging to the `/backend` directory and running:
+Once you have your virtual environment setup and running, install dependencies by navigating to the `/backend` directory and running:
 
 ```bash
 pip install -r requirements.txt
