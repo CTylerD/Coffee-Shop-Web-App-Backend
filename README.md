@@ -27,7 +27,7 @@ Please see the respective
 
 This project utilizes a Flask server running a SQLAlchemy database and Auth0 authentication behind a complete Ionic UI framework.
 
-### Contributing Authors
+## Contributing Authors
 
 C. Tyler Dennis  
 Udacity  
