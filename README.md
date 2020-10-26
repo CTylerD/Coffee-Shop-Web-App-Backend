@@ -30,5 +30,4 @@ This project utilizes a Flask server running a SQLAlchemy database and Auth0 aut
 ### Contributing Authors
 
 Udacity
-
 C. Tyler Dennis
