@@ -29,5 +29,9 @@ This project utilizes a Flask server running a SQLAlchemy database and Auth0 aut
 
 ### Contributing Authors
 
+C. Tyler Dennis  
 Udacity  
-C. Tyler Dennis
+
+## Licensing
+
+This project is released under the [MIT License](https://opensource.org/licenses/MIT)
