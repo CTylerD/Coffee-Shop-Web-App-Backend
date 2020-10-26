@@ -21,11 +21,11 @@ Project prompt:
 ## Prerequisites and Dependencies
 
 Please see the respective 
-[frontend](./backend/README.md) and [backend](./backend/README.md) README files for more information on setting up the the various dependencies required for this project.
+[frontend](./backend/README.md) and [backend](./backend/README.md) README files for more information on setting up the the various dependencies required for this project
 
 ## Project Stack
 
-This project utilizes a Flask server running a SQLAlchemy database and Auth0 authentication behind a complete Ionic UI framework.
+This project utilizes a Flask server running a SQLAlchemy database and Auth0 authentication behind a complete Ionic UI framework
 
 ## Contributing Authors
 
