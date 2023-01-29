@@ -1,7 +1,5 @@
 # Coffee Shop Website
 
-## Udacity Full Stack Web Development Nanodegree - Project #3
-
 Project prompt:
 
 > Udacity has decided to open a new digitally enabled cafe for students to order drinks, socialize, and study hard. But they need help setting up their menu experience.
@@ -28,10 +26,7 @@ Please see the respective
 This project utilizes a Flask server running a SQLAlchemy database and Auth0 authentication behind a complete Ionic UI framework
 
 ## Contributing Authors
-
-C. Tyler Dennis  
-Udacity  
+C. Tyler Dennis    
 
 ## Licensing
-
 This project is released under the [MIT License](https://opensource.org/licenses/MIT)
